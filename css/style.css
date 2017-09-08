@@ -1,0 +1,11 @@
+.row1{
+  width: 35%;
+  margin: 50px auto;
+  padding: 20px;
+  font-size: 20px;
+}
+
+#btn{
+	color: #fff;
+	background: #337ab7;
+}
